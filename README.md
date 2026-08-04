@@ -18,7 +18,7 @@ This repository serves as my organized workspace for all course requirements, in
 ## 👤 Student Information
 
 - **Name:** Mark Vincent Omaoid
-- **Course/Section:** BSIT
+- **Course/Section:** BSIT K
 - **Instructor:** JENKIELYN TORRES
 - **School Year:** 2026–2027
 
