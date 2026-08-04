@@ -1,0 +1,9 @@
+# Cloud Computing Concepts Reflection
+
+Cloud computing has become an important part of my daily life, even before I started studying it in class. Many of the applications I use every day rely on cloud technology to store data, provide online services, and allow access from different devices.
+One cloud service I regularly use is **Google Drive**. It is an example of **Software as a Service (SaaS)** because I can store, edit, and share files through a web browser without installing or managing servers. It uses the **Public Cloud** deployment model because the service is available to anyone with a Google account.
+Another service I frequently use is **Facebook Messenger**. It is also classified as **SaaS** because it provides messaging and communication over the internet. It uses the **Public Cloud** deployment model since millions of users can access it online.
+The third service I use is **Canva**. Canva is also a **SaaS** application because it allows users to create presentations, posters, and other designs directly from a web browser. It is hosted on the **Public Cloud**, making it accessible from different devices with an internet connection.
+Version control is very important in cloud computing because it keeps track of every change made to files and projects. If a mistake happens, previous versions can easily be restored. It also allows several people to work on the same project without overwriting each other's work.
+GitHub makes collaboration easier by storing project files in one central place. Team members can upload changes, review code, use branches to develop new features, and merge updates safely. GitHub also keeps a complete history of every change, making it easier to identify problems and improve projects. Learning Git and 
+GitHub will help me become more organized and prepare me for working on real cloud computing and software development projects in the future.
