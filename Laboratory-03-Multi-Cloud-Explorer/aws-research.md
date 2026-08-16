@@ -14,7 +14,7 @@ The **AWS Management Console** is a website where users can create, manage, and 
 
 ### Screenshot
 
-![AWS Management Console](images/aws-console.png)
+![AWS Management Console](images/AWS_SCREESHOT.png)
 
 ## 4. Four Core Services
 
