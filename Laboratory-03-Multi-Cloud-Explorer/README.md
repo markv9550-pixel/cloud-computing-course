@@ -19,11 +19,11 @@ A Linux Playground was launched using KillerCoda. The following commands were us
 
 ### CPU Information
 
-![CPU Information](cpu_Screenshot-info.png)
+![CPU Information](cpu_Screenshot.png)
 
 ### Memory
 
-![Memory Information](memory_Screenshot-info.png)
+![Memory Information](memory_Screenshot.png)
 
 ### Disk Space
 
